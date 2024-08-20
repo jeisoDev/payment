@@ -1,0 +1,21 @@
+Cartão de Crédito:
+visa
+mastercard
+amex (American Express)
+elo
+hipercard
+
+Boleto Bancário:
+bolbradesco (Boleto Bradesco)
+bolbrasil (Boleto Banco do Brasil)
+bolitau (Boleto Itaú)
+bolsantander (Boleto Santander)
+
+Débito Online:
+debit_bradesco
+debit_bb (Banco do Brasil)
+debit_itau
+debit_santander
+
+Pagamento pix:
+pix

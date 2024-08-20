@@ -1,0 +1,27 @@
+
+
+Compras efetuadas, notificar por email ao comprador e ao dono.
+
+verificacao custos API sefaz, para integracao sistema
+
+modelo de exemplo definido/ home https://povarempreendimentos.com.br/
+
+home/fromt, com opcoes admin, editaveis, atraves de click em lapis
+
+no menu, abrir categorias e subcategorias
+
+Dashboard: graficos em pizza/comparativos linha do tempo, vendas, cadastros, acessos, relatorios de cadastros diario/mensal, ticket medio, produto, mais vendido
+
+Relatorios; relatorio de vendas promocionais,reltorios de estoque com detalhamento,relatorio de vendas nome visao geral de vendas, filtros de venda, cidades, tiket medio, produto mais vendido, prduto menos vendido  
+taxa de conversao por visitantes
+taxa de abandono de carrinho
+lucratividade do produto
+
+verificar possivel notificaocao de clients que voltam a comprar
+
+gerador de link, por produto, para divulgacao
+
+verificacao de notas fiscais
+
+
+
